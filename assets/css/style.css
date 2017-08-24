@@ -36,8 +36,8 @@ b {
 	box-shadow: 0px 0px 20px #888888;
 }
 
-.list-skills {
-	margin-top: 7%;
+.third-row {
+	padding: 7% 0%;
 }
 
 .first-skill {
@@ -46,16 +46,52 @@ b {
 
 .code-image {
 	margin-top: 10%;
-	border-radius: 50px;
 	margin-right: 10%;
 }
 
 .red-section {
 	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-bottom: 5%;
 	color: white;
 }
 
 .first-bold{
 	color: white;
+}
+
+.g-project {
+	color: #1a99e1;
+}
+
+.fourth-row {
+	background-color: #1a99e1;
+	box-shadow: 0px 0px 20px #888888;
+
+}
+
+.other-skills {
+	padding: 7% 0%;
+}
+
+.pumpkins-image {
+	border-radius: 10px;
+}
+
+.linkedIn {
+	border-radius: none;
+	background-color: #3b5998;
+	color: white;
+	text-shadow: 0px 0px 2px #888888;
+	box-shadow: 2px 2px 10% #888888;
+	margin: 5% 20%;
+} 
+
+.real-estate-ag {
+	margin-top: 11%;
+	margin-bottom: 40px;
+}
+
+.city-image {
+	height: 10%;
+	width: 80%;
 }
