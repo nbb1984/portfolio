@@ -1,0 +1,61 @@
+body {
+	background-color: #f0f1f4;
+}
+
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 50px;
+	color: black;
+	margin-bottom: 5%;
+}
+
+p {
+	font-size: 20px;
+}
+
+b {
+	color: #0d96dc;
+}
+
+.main-content {
+	margin-top: 15%;
+}
+
+.portfolio-image {
+	width: 100%;
+	border-radius: 50px;
+	box-shadow: 5px 5px 5px #888888;
+	height: 10%;
+
+}
+
+.second-row {
+	margin-top: 5%;
+	height: 20%;
+	background-color: #bb0000;
+	box-shadow: 0px 0px 20px #888888;
+}
+
+.list-skills {
+	margin-top: 7%;
+}
+
+.first-skill {
+	margin-top: 10%;
+}
+
+.code-image {
+	margin-top: 10%;
+	border-radius: 50px;
+	margin-right: 10%;
+}
+
+.red-section {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	color: white;
+}
+
+.first-bold{
+	color: white;
+}
